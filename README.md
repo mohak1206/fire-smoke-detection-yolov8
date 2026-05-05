@@ -159,14 +159,15 @@ print(result)
 
 ## 📁 Repository Structure
 
+```
 fire-smoke-detection-yolov8/
-│
-├── fire_smoke_detection_yolov8.ipynb  ← Training notebook
-├── best.pt                            ← Trained model weights
-├── README.md                          ← Project documentation
+├── fire_smoke_detection_yolov8.ipynb
+├── best.pt
+├── README.md
 └── results/
-├── results.png                    ← Training graphs
-└── detection_sample.png           ← Sample detection
+    ├── results.png
+    └── detection_sample.png
+```
 
 ---
 
