@@ -36,7 +36,7 @@ model.predict(source='your_image.jpg', show=True)
 
 ## Deployment
 Model deployed on Roboflow:
-[Live Demo Link here]
+(https://app.roboflow.com/space-3jvwp/fire-smoke-detection-1k8z9-vpblh/1)
 
 ## Internship
 St. John College of Engineering and Management
